@@ -6,6 +6,7 @@ public class Main {
         sum(14, 44);
         sum(123,4213,321);
         sum("zxc","qwe");
+        sum("abc","def");
     }
     public static void sum (int a,int b){
         int res = a+b;
